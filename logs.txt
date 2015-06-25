@@ -1,0 +1,23 @@
+commit f4674e33a2a8b724fc7f3c794b06c40f69e9594a
+Author: hectorgarciam <hegarciamata@hotmail.com>
+Date:   Wed Jun 24 14:28:16 2015 -0600
+
+    Primer commit
+
+commit 8e535fcb9c10f31ac4da9c8aeca4a180dfa9dbee
+Author: hectorgarciam <hegarciamata@hotmail.com>
+Date:   Wed Jun 24 14:21:43 2015 -0600
+
+    Imagen agregada
+
+commit e94ac55765e122aff85946edbf93c4760c52c42f
+Author: hectorgarciam <hegarciamata@hotmail.com>
+Date:   Wed Jun 24 14:14:46 2015 -0600
+
+    Cambio de fondo a azul
+
+commit 17da8dd5f6cea3d6cc2d763575d088450540c42e
+Author: hectorgarciam <hegarciamata@hotmail.com>
+Date:   Wed Jun 24 14:06:37 2015 -0600
+
+    Formulario de registro agregado
